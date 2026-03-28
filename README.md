@@ -183,18 +183,18 @@ me.say_hi()
 </div>
 
 ---
-
+ 
 ## 📜 Certifications
-
+ 
 <div align="center">
-
-[![Java](https://www.coursera.org/account/accomplishments/verify/JB7Z77J6R266)
-[![Python](https://www.coursera.org/account/accomplishments/verify/RVDF93CS3KH4)
-[![DSA](https://www.coursera.org/account/accomplishments/verify/3FJFTNCQ4762)
-[![Graphs](https://www.coursera.org/account/accomplishments/verify/LA46U934VC8W)
-
+ 
+[![Java](https://img.shields.io/badge/✅_The_Java_Language-Coursera-0056D3?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/JB7Z77J6R266)
+[![Python](https://img.shields.io/badge/✅_Crash_Course_on_Python-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/RVDF93CS3KH4)
+[![DSA](https://img.shields.io/badge/✅_Data_Structures-Coursera-00897B?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/3FJFTNCQ4762)
+[![Graphs](https://img.shields.io/badge/✅_Algorithms_on_Graphs-Coursera-FF6F00?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/LA46U934VC8W)
+ 
 </div>
-
+ 
 ---
 
 ## 💡 Quote I Live By
