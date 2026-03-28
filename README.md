@@ -91,10 +91,6 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mujtabakamil1&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtabakamil1&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" height="170"/>
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mujtabakamil1&theme=tokyonight&border_radius=12&hide_border=false" width="60%"/>
@@ -103,16 +99,6 @@ me.say_hi()
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujtabakamil1&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&radius=12" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mujtabakamil1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1" width="95%"/>
 
 </div>
 
@@ -202,36 +188,10 @@ me.say_hi()
 
 <div align="center">
 
-[![Java](https://img.shields.io/badge/✅_The_Java_Language-Coursera-0056D3?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org)
-[![Python](https://img.shields.io/badge/✅_Crash_Course_on_Python-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org)
-[![DSA](https://img.shields.io/badge/✅_Data_Structures-Certified-00897B?style=for-the-badge&logo=leetcode&logoColor=white)](https://coursera.org)
-[![Graphs](https://img.shields.io/badge/✅_Algorithms_on_Graphs-Certified-FF6F00?style=for-the-badge&logo=hackerrank&logoColor=white)](https://coursera.org)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mujtabakamil1/mujtabakamil1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mujtabakamil1/mujtabakamil1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mujtabakamil1/mujtabakamil1/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!-- This section will auto-populate if you set up WakaTime integration -->
-<!--END_SECTION:waka-->
+[![Java](https://www.coursera.org/account/accomplishments/verify/JB7Z77J6R266)
+[![Python](https://www.coursera.org/account/accomplishments/verify/RVDF93CS3KH4)
+[![DSA](https://www.coursera.org/account/accomplishments/verify/3FJFTNCQ4762)
+[![Graphs](https://www.coursera.org/account/accomplishments/verify/LA46U934VC8W)
 
 </div>
 
@@ -248,8 +208,6 @@ me.say_hi()
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+Connect+%26+Build+Together!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 **⭐ If you find my work interesting, consider giving my repos a star!**
 
