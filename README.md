@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mujtaba%20Kamil%20Mahmood&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20Enthusiast%20%7C%20ML%20Explorer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=70&lines=🚀+Building+Scalable+Backend+Systems;🐍+Python+%7C+Django+%7C+Flask+%7C+REST+APIs;🤖+Exploring+Machine+Learning+%26+AI+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=90&lines=🚀+Building+Scalable+Backend+Systems;🐍+Python+%7C+Django+%7C+Flask+%7C+REST+APIs;🤖+Exploring+Machine+Learning+%26+AI+Integration)](https://git.io/typing-svg)
 
 <br/>
 
