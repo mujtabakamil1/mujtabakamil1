@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mujtaba%20Kamil%20Mahmood&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20Enthusiast%20%7C%20ML%20Explorer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+Scalable+Backend+Systems;🐍+Python+%7C+Django+%7C+Flask+%7C+REST+APIs;🤖+Exploring+Machine+Learning+%26+AI+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=70&lines=🚀+Building+Scalable+Backend+Systems;🐍+Python+%7C+Django+%7C+Flask+%7C+REST+APIs;🤖+Exploring+Machine+Learning+%26+AI+Integration)](https://git.io/typing-svg)
 
 <br/>
 
@@ -207,26 +207,10 @@ me.say_hi()
 [![DSA](https://img.shields.io/badge/✅_Data_Structures-Coursera-00897B?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/3FJFTNCQ4762)
 [![Graphs](https://img.shields.io/badge/✅_Algorithms_on_Graphs-Coursera-FF6F00?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/LA46U934VC8W)
 [![FastAPI](https://img.shields.io/badge/✅_Introduction_to_FastAPI-Certified-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/d55a42b19a734f98a0783007bd88f4b5780ed32f?raw=1)
-[![AI Agents](https://img.shields.io/badge/✅_Introduction_to_AI_Agents-Certified-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/mujtabakamil1)
-[![Agentic Systems](https://img.shields.io/badge/✅_Building_Scalable_Agentic_Systems-Certified-E11D48?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/mujtabakamil1)
+[![AI Agents](https://img.shields.io/badge/✅_Introduction_to_AI_Agents-Certified-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/120ffed0b753cbe814d822f630bcc7865ba4c499?raw=1)
+[![Agentic Systems](https://img.shields.io/badge/✅_Building_Scalable_Agentic_Systems-Certified-E11D48?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/1d751345a87142bd495ef19d9bdfa8e4f3475acb?raw=1)
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mujtabakamil1/mujtabakamil1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mujtabakamil1/mujtabakamil1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mujtabakamil1/mujtabakamil1/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 ## 📈 Coding Activity
 
@@ -241,19 +225,19 @@ me.say_hi()
 ---
 
 ## 💡 Quote I Live By
-
+ 
 <div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
+ 
 </div>
-
 ---
-
+ 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+Connect+%26+Build+Together!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-**⭐ If you find my work interesting, consider giving my repos a star!**
-
+⭐ **If you find my work interesting, consider giving my repos a star!** ⭐
+ 
+<br/>
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
+ 
 </div>
