@@ -206,7 +206,7 @@ me.say_hi()
 [![Python](https://img.shields.io/badge/✅_Crash_Course_on_Python-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/RVDF93CS3KH4)
 [![DSA](https://img.shields.io/badge/✅_Data_Structures-Coursera-00897B?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/3FJFTNCQ4762)
 [![Graphs](https://img.shields.io/badge/✅_Algorithms_on_Graphs-Coursera-FF6F00?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/LA46U934VC8W)
-[![FastAPI](https://img.shields.io/badge/✅_Introduction_to_FastAPI-Certified-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/mujtabakamil1)
+[![FastAPI](https://img.shields.io/badge/✅_Introduction_to_FastAPI-Certified-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/d55a42b19a734f98a0783007bd88f4b5780ed32f?raw=1)
 [![AI Agents](https://img.shields.io/badge/✅_Introduction_to_AI_Agents-Certified-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/mujtabakamil1)
 [![Agentic Systems](https://img.shields.io/badge/✅_Building_Scalable_Agentic_Systems-Certified-E11D48?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/mujtabakamil1)
 
