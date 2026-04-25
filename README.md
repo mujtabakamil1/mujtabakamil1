@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mujtaba%20Kamil%20Mahmood&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20Enthusiast%20%7C%20ML%20Explorer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+Scalable+Backend+Systems;🐍+Python+%7C+Django+%7C+Flask+%7C+REST+APIs;🤖+Exploring+Machine+Learning+%26+AI+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+Scalable+Backend+Systems;🐍+Python+%7C+Django+%7C+Flask+%7C+REST+APIs;🤖+Exploring+Machine+Learning+%26+AI+Integration)](https://git.io/typing-svg)
 
 <br/>
 
@@ -91,6 +91,10 @@ me.say_hi()
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=mujtabakamil1&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtabakamil1&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" height="170"/>
+
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mujtabakamil1&theme=tokyonight&border_radius=12&hide_border=false" width="60%"/>
@@ -104,6 +108,16 @@ me.say_hi()
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mujtabakamil1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1" width="95%"/>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -112,11 +126,11 @@ me.say_hi()
 |:---:|:---:|:---:|:---:|
 | Python · ML · Docker · Web Security | Django · Tailwind · Python | OpenAI · AssemblyAI · Django | ASP.NET Core · C# · SQL |
 | ML-powered scanner detecting SQL Injection & XSS with web crawling | Full e-commerce with auth, messaging & CRUD | Converts YouTube audio → blog articles via AI | Role-based mobile store with MVC & Razor Pages |
-| `Jan 2026` | `Apr 2025` | `Jan 2025` | `Aug 2024` |
+| `Feb 2026` | `Apr 2025` | `Jan 2025` | `Aug 2024` |
 
 </div>
 
-### 🔐 Automated Web Application Vulnerability Scanner *(Final Year Project)*
+### 🔐 Automated Web Application Vulnerability Scanner *(Final Year Project — Feb 2026)*
 > `Python` `Machine Learning` `Docker` `Web Security`
 
 - 🧠 ML model trained to detect **SQL Injection**, **XSS**, and known attack patterns with reduced false positives
@@ -178,23 +192,52 @@ me.say_hi()
 
 | 🎓 Degree | 🏫 Institution | 📅 Duration |
 |:---|:---|:---|
-| BS Software Engineering | COMSATS University Islamabad, Lahore Campus | Feb 2022 – Jan 2026 |
+| BS Software Engineering | COMSATS University Islamabad, Lahore Campus | Feb 2022 – March 2026 |
 
 </div>
 
 ---
- 
+
 ## 📜 Certifications
- 
+
 <div align="center">
- 
+
 [![Java](https://img.shields.io/badge/✅_The_Java_Language-Coursera-0056D3?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/JB7Z77J6R266)
 [![Python](https://img.shields.io/badge/✅_Crash_Course_on_Python-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/RVDF93CS3KH4)
 [![DSA](https://img.shields.io/badge/✅_Data_Structures-Coursera-00897B?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/3FJFTNCQ4762)
 [![Graphs](https://img.shields.io/badge/✅_Algorithms_on_Graphs-Coursera-FF6F00?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/LA46U934VC8W)
- 
+[![FastAPI](https://img.shields.io/badge/✅_Introduction_to_FastAPI-Certified-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/mujtabakamil1)
+[![AI Agents](https://img.shields.io/badge/✅_Introduction_to_AI_Agents-Certified-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/mujtabakamil1)
+[![Agentic Systems](https://img.shields.io/badge/✅_Building_Scalable_Agentic_Systems-Certified-E11D48?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/mujtabakamil1)
+
 </div>
- 
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mujtabakamil1/mujtabakamil1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mujtabakamil1/mujtabakamil1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mujtabakamil1/mujtabakamil1/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!-- This section will auto-populate if you set up WakaTime integration -->
+<!--END_SECTION:waka-->
+
+</div>
+
 ---
 
 ## 💡 Quote I Live By
@@ -208,6 +251,8 @@ me.say_hi()
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+Connect+%26+Build+Together!&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 **⭐ If you find my work interesting, consider giving my repos a star!**
 
