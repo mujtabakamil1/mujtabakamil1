@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mujtaba%20Kamil%20Mahmood&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20Enthusiast%20%7C%20ML%20Explorer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=90&lines=🚀+Building+Scalable+Backend+Systems;🐍+Python+%7C+Django+%7C+Flask+%7C+REST+APIs;🤖+Exploring+Machine+Learning+%26+AI+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+Scalable+Backend+Systems;🐍+Python+%7C+Django+%7C+Flask+%7C+REST+APIs;🤖+Exploring+Machine+Learning+%26+AI+Integration)](https://git.io/typing-svg)
 
 <br/>
 
@@ -131,7 +131,7 @@ me.say_hi()
 </div>
 
 ### 🔐 Automated Web Application Vulnerability Scanner *(Final Year Project — Feb 2026)*
-> `Python` `Machine Learning` `Docker` `Web Security`
+> `Python` `Machine Learning` `Docker` `Web Security` &nbsp; [![GitHub Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mujtabakamil1?tab=repositories)
 
 - 🧠 ML model trained to detect **SQL Injection**, **XSS**, and known attack patterns with reduced false positives
 - 🕷️ Implemented **web crawling & structural analysis** to dynamically inspect endpoints and inputs
@@ -141,7 +141,7 @@ me.say_hi()
 ---
 
 ### 🛒 Django Online Marketplace
-> `Django` `Tailwind CSS` `Python` `HTML`
+> `Django` `Tailwind CSS` `Python` `HTML` &nbsp; [![GitHub Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mujtabakamil1?tab=repositories)
 
 - 🔐 Full **user authentication** system with product browsing, search & category filters
 - 💬 **Built-in messaging** for direct buyer-seller communication
@@ -150,7 +150,7 @@ me.say_hi()
 ---
 
 ### 🤖 Django AI Blog App
-> `Django` `OpenAI API` `AssemblyAI` `Python`
+> `Django` `OpenAI API` `AssemblyAI` `Python` &nbsp; [![GitHub Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mujtabakamil1?tab=repositories)
 
 - 🎥 Drop a **YouTube link** → AI extracts audio → transcribes speech → generates a structured blog article
 - 🧩 Multi-API pipeline: **AssemblyAI** (Speech-to-Text) + **OpenAI** (Article Generation)
@@ -159,7 +159,7 @@ me.say_hi()
 ---
 
 ### 📱 ASP.NET Core Mobile Store
-> `ASP.NET Core MVC` `C#` `SQL` `Razor Pages`
+> `ASP.NET Core MVC` `C#` `SQL` `Razor Pages` &nbsp; [![GitHub Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mujtabakamil1?tab=repositories)
 
 - 🔒 **Role-based access control** with Admin, Client, and Seller roles
 - 🗄️ Comprehensive SQL database ensuring **data integrity & accessibility**
@@ -202,42 +202,45 @@ me.say_hi()
 
 <div align="center">
 
-[![Java](https://img.shields.io/badge/✅_The_Java_Language-Coursera-0056D3?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/JB7Z77J6R266)
-[![Python](https://img.shields.io/badge/✅_Crash_Course_on_Python-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/RVDF93CS3KH4)
-[![DSA](https://img.shields.io/badge/✅_Data_Structures-Coursera-00897B?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/3FJFTNCQ4762)
-[![Graphs](https://img.shields.io/badge/✅_Algorithms_on_Graphs-Coursera-FF6F00?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/LA46U934VC8W)
-[![FastAPI](https://img.shields.io/badge/✅_Introduction_to_FastAPI-Certified-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/d55a42b19a734f98a0783007bd88f4b5780ed32f?raw=1)
-[![AI Agents](https://img.shields.io/badge/✅_Introduction_to_AI_Agents-Certified-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/120ffed0b753cbe814d822f630bcc7865ba4c499?raw=1)
-[![Agentic Systems](https://img.shields.io/badge/✅_Building_Scalable_Agentic_Systems-Certified-E11D48?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/1d751345a87142bd495ef19d9bdfa8e4f3475acb?raw=1)
-
-</div>
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!-- This section will auto-populate if you set up WakaTime integration -->
-<!--END_SECTION:waka-->
+| 🏅 Certificate | 🏫 Platform | 🔗 |
+|:---|:---|:---:|
+| The Java Language | Coursera | [![View](https://img.shields.io/badge/View-0056D3?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/JB7Z77J6R266) |
+| Crash Course on Python | Google / Coursera | [![View](https://img.shields.io/badge/View-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/RVDF93CS3KH4) |
+| Data Structures | Coursera | [![View](https://img.shields.io/badge/View-00897B?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/3FJFTNCQ4762) |
+| Algorithms on Graphs | Coursera | [![View](https://img.shields.io/badge/View-FF6F00?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/LA46U934VC8W) |
+| Introduction to FastAPI | DataCamp | [![View](https://img.shields.io/badge/View-009688?style=flat-square&logo=fastapi&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/d55a42b19a734f98a0783007bd88f4b5780ed32f?raw=1) |
+| Introduction to AI Agents | DataCamp | [![View](https://img.shields.io/badge/View-7C3AED?style=flat-square&logo=openai&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/120ffed0b753cbe814d822f630bcc7865ba4c499?raw=1) |
+| Building Scalable Agentic Systems | DataCamp | [![View](https://img.shields.io/badge/View-E11D48?style=flat-square&logo=anthropic&logoColor=white)](https://www.datacamp.com/statement-of-accomplishment/course/1d751345a87142bd495ef19d9bdfa8e4f3475acb?raw=1) |
 
 </div>
 
 ---
 
 ## 💡 Quote I Live By
- 
-<div align="center">
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
- 
-</div>
----
- 
+
 <div align="center">
 
-⭐ **If you find my work interesting, consider giving my repos a star!** ⭐
- 
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Together!
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mujtaba-Kamil)
+[![Email](https://img.shields.io/badge/Say_Hello-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujtabakamil9@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_Me-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mujtabakamil1)
+
 <br/>
+
+⭐ **If you find my work interesting, consider giving my repos a star!** ⭐
+
+<br/>
+
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
- 
+
 </div>
